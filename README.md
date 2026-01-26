@@ -9,4 +9,5 @@ docker run -it \
 #### This is my journey for learning a machine learning and deep learning
 
 Learning Path
-- TF-IDF (NOW)
+- TF-IDF
+- Cosine Similarity (NOW)
