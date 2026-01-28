@@ -10,4 +10,5 @@ docker run -it \
 
 Learning Path
 - TF-IDF
-- Cosine Similarity (NOW)
+- Cosine Similarity
+- Semantic Search (NOW)
