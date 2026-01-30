@@ -11,4 +11,7 @@ docker run -it \
 Learning Path
 - TF-IDF
 - Cosine Similarity
-- Semantic Search (NOW)
+- Semantic Search
+- STUDY CASE (NOW)
+
+#### study case : classification for claim on TPA process (PRE-AUTH)
